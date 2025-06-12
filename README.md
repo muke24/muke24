@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter Thompson ( @muke24 )
-- 👀 I’m highly interested in Unity game developement
+- 👀 I’m highly interested in Unity game development
 - 🌱 I’m currently learning the OpenAI API and its functionalities in Unity
 - 📫 How to reach me - Email: pjthompson.au+githubcontact@gmail.com
 
